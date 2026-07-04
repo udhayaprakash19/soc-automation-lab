@@ -1,4 +1,7 @@
 # soc-automation-lab
+## Architecture
+
+![SOC Automation Architecture](  )
 A home SOC automation lab built with Wazuh, Shuffle, and TheHive.
 This project demonstrates a home Security Operations Center (SOC) automation lab using:
 
