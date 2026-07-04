@@ -1,5 +1,7 @@
 # soc-automation-lab
 ## Architecture
+![SOC Automation Architecture](<img width="728" height="490" alt="Screenshot 2026-07-05 024307" src="https://github.com/user-attachments/assets/4a4e090a-1895-4b50-83fc-66e7d8b538d0" />
+)
 A home SOC automation lab built with Wazuh, Shuffle, and TheHive.
 This project demonstrates a home Security Operations Center (SOC) automation lab using:
 
@@ -7,12 +9,6 @@ This project demonstrates a home Security Operations Center (SOC) automation lab
 - Shuffle
 - TheHive
 - Windows 10 Endpoint
-
-## Architecture
-
-## Architecture
-
-![SOC Automation Architecture](architecture.png)
 
 ## Workflow
 
